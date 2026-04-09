@@ -1,0 +1,47 @@
+1
+00:00:15,000 --> 00:00:45,000
+Interviewer: Tell me about your active listening approach.
+
+2
+00:00:45,000 --> 00:01:30,000
+Candidate: I always try to understand the customer clearly. I work hard to avoid misunderstandings by confirming what I hear. This approach helps build trust with clients. I make sure to respond appropriately to their concerns.
+
+3
+00:01:30,000 --> 00:02:00,000
+Interviewer: How do you communicate clearly?
+
+4
+00:02:00,000 --> 00:03:00,000
+Candidate: I use clear language in all my communications. I avoid jargon and technical terms. I am always polite and courteous. I explain the next steps at the end of every conversation.
+
+5
+00:03:00,000 --> 00:03:30,000
+Interviewer: What about handling complaints?
+
+6
+00:03:30,000 --> 00:04:15,000
+Candidate: I stay calm when faced with complaints. I listen carefully to every detail. I acknowledge the issue and show empathy. Then I look for a solution that works for everyone.
+
+7
+00:04:15,000 --> 00:04:45,000
+Interviewer: How do you find the right solution?
+
+8
+00:04:45,000 --> 00:05:30,000
+Candidate: My solutions always address the issue at hand. I ensure they are realistic and practical. Everything is explained clearly to the customer. And I make sure it is delivered in a timely way.
+
+9
+00:05:30,000 --> 00:06:00,000
+Interviewer: Tell me about your professional attitude.
+
+10
+00:06:00,000 --> 00:06:45,000
+Candidate: I maintain a respectful attitude at all times. Punctuality is very important to me. I practice polite communication every day. I believe in taking full responsibility for my work.
+
+11
+00:06:45,000 --> 00:07:15,000
+Interviewer: How do you manage pressure?
+
+12
+00:07:15,000 --> 00:08:00,000
+Candidate: I stay calm even in high-pressure situations. I prioritize tasks based on their urgency. I communicate clearly with my team. I always focus on solutions rather than obstacles.
